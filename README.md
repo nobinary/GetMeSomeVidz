@@ -19,4 +19,4 @@ Get Me Some Vids basically lets you do two things:
 
 *Why are there broken YouTubeVideos in the search results?*
 
-The short answer to that is that the urls from the API are not consistent, and send you on a bunch of internal YouTube redirects that for the most part lead to the mobile version of the site. Getting around that would require some AJAX magic that's beyond the scope of this assignment. Conversely, the app is currently refusing to show us Creed videos (id=21), so maybe it's for the best. 
+The short answer to that is that the urls from the API are not consistent/updated, and send you on a bunch of internal YouTube redirects that for the most part lead to the mobile version of the site. Getting around that would require some AJAX magic that's currently being developed. Conversely, the app is currently refusing to show us Creed videos (id=21), so maybe it's for the best. 
